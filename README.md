@@ -6,11 +6,11 @@
 
 | 프로젝트 | 핵심 내용 | 본인 역할 |
 |---|---|---|
-| [골프 미래 스윙 모션 예측](../golf-motion-prediction/README.md) | 전반 동작으로 미래 관절 궤적 예측, 키프레임 압축 모델 비교 | 단독 연구 · 데이터 처리 · 모델 설계·학습·평가 · 논문 제1저자 |
-| [골프 영상 분석과 코칭 서비스](../golf-swing-coach/README.md) | 관절 추출 → 수치 분석 → 챗봇 피드백·3D 비교 | 3인 팀 · PM · 데이터 추출 · 백엔드 · AI 챗봇 |
-| [일일 배치 기반 SNS 트렌드 서비스](../sns-trend-service/README.md) | 하루 한 번 수집한 플랫폼 데이터로 다음 관측일 지표 예측 | PM · 일일 수집 · 모델 학습 · 프런트 데이터 연결 수정 |
-| [Valorant 경기 조회와 라운드 예측](../valorant-match-prediction/README.md) | 과거 경기 예측 연구와 VLR.gg 현재 경기 조회 앱 | PM · 데이터 수집·전처리 · 모델 · 조회 백엔드 · 프런트 수정 |
-| [플랫폼 간 가짜 계정 분류](../cross-platform-fake-account-detection/README.md) | Instagram과 X의 계정 특성 변환 및 교차 플랫폼 평가 | PM · 전처리 · 정규화 · 모델 학습 (크롤링: 팀원) |
+| [골프 미래 스윙 모션 예측](https://github.com/Gpark666/golf-motion-prediction) | 전반 동작으로 미래 관절 궤적 예측, 키프레임 압축 모델 비교 | 단독 연구 · 데이터 처리 · 모델 설계·학습·평가 · 논문 제1저자 |
+| [골프 영상 분석과 코칭 서비스](https://github.com/Gpark666/golf-swing-coach) | 관절 추출 → 수치 분석 → 챗봇 피드백·3D 비교 | 3인 팀 · PM · 데이터 추출 · 백엔드 · AI 챗봇 |
+| [일일 배치 기반 SNS 트렌드 서비스](https://github.com/Gpark666/sns-trend-service) | 하루 한 번 수집한 플랫폼 데이터로 다음 관측일 지표 예측 | PM · 일일 수집 · 모델 학습 · 프런트 데이터 연결 수정 |
+| [Valorant 경기 조회와 라운드 예측](https://github.com/Gpark666/valorant-match-prediction) | 과거 경기 예측 연구와 VLR.gg 현재 경기 조회 앱 | PM · 데이터 수집·전처리 · 모델 · 조회 백엔드 · 프런트 수정 |
+| [플랫폼 간 가짜 계정 분류](https://github.com/Gpark666/cross-platform-fake-account-detection) | Instagram과 X의 계정 특성 변환 및 교차 플랫폼 평가 | PM · 전처리 · 정규화 · 모델 학습 (크롤링: 팀원) |
 
 각 프로젝트에는 소개, 본인 기여, 주요 결과, 아키텍처, 코드와 노트북의 읽는 순서를 담았습니다. 골프 코칭 서비스와 이후 단독으로 진행한 모션 예측 연구는 별도 저장소로 구성했습니다.
 
